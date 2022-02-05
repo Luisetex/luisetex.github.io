@@ -33,7 +33,8 @@ twitter_username: luisetex
 github_username:  luisetex
 
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: luisetex/jekyll-theme-console
 plugins:
   - jekyll-feed
 
